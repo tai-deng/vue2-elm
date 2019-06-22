@@ -9,7 +9,8 @@
 
 let baseUrl = ''; 
 let routerMode = 'hash';
-let imgBaseUrl = ''; 
+let imgBaseUrl = '';
+let a = 100; 
 
 
 if (process.env.NODE_ENV == 'development') {
