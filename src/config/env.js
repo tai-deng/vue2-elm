@@ -11,7 +11,7 @@ let baseUrl = '';
 let routerMode = 'hash';
 let imgBaseUrl = '';
 let a = 100; 
-
+let c = 300;
 
 if (process.env.NODE_ENV == 'development') {
     imgBaseUrl = '/img/';
